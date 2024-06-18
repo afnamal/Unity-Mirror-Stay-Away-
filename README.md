@@ -1,6 +1,6 @@
 ## Stay Away - README
 
-![Stay Away](gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay2.PNG)
+![Stay Away]([gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay2.PNG](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay.PNG?alt=media&token=852faee6-27bc-4abf-a40d-ad8cd159e2f5))
 
 **Stay Away** is a multiplayer game built with Unity and Mirror, where two players can join and play over a local network using different devices. The game consists of 4 levels, each becoming progressively more challenging as the height of the central pillar increases. The user interface is created using Unity's UI Toolkit.
 
@@ -54,8 +54,8 @@
 
 ### Screenshots
 
-![Screenshot 1](gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay.PNG)
-![Screenshot 2](gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay3.PNG)
+![Screenshot 1]([gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay.PNG](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay.PNG?alt=media&token=852faee6-27bc-4abf-a40d-ad8cd159e2f5))
+![Screenshot 2]([gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay3.PNG](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay3.PNG?alt=media&token=4e6fc758-a9be-4313-b508-ba04c8b45ec5))
 
 ### Troubleshooting
 
