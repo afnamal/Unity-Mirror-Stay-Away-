@@ -56,7 +56,7 @@ Fotoğrafların görünmemesi, URL'lerin doğru formatta olmamasından kaynaklan
 
 ### Screenshots
 
-![Screenshot 1](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay.PNG?alt=media&token=852faee6-27bc-4abf-a40d-ad8cd159e2f5)
+![Screenshot 1](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay2.PNG?alt=media&token=0fcf3953-c04f-42c6-b0fe-7e9ee1d48ebd)
 ![Screenshot 2](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay3.PNG?alt=media&token=4e6fc758-a9be-4313-b508-ba04c8b45ec5)
 
 ### Troubleshooting
