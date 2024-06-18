@@ -1,6 +1,8 @@
+Fotoğrafların görünmemesi, URL'lerin doğru formatta olmamasından kaynaklanabilir. Doğru URL formatını kullanarak ve markdown sentezine uygun hale getirerek yeniden düzenleyelim.
+
 ## Stay Away - README
 
-![Stay Away]([gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay2.PNG](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay.PNG?alt=media&token=852faee6-27bc-4abf-a40d-ad8cd159e2f5))
+![Stay Away](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay.PNG?alt=media&token=852faee6-27bc-4abf-a40d-ad8cd159e2f5)
 
 **Stay Away** is a multiplayer game built with Unity and Mirror, where two players can join and play over a local network using different devices. The game consists of 4 levels, each becoming progressively more challenging as the height of the central pillar increases. The user interface is created using Unity's UI Toolkit.
 
@@ -54,8 +56,8 @@
 
 ### Screenshots
 
-![Screenshot 1]([gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay.PNG](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay.PNG?alt=media&token=852faee6-27bc-4abf-a40d-ad8cd159e2f5))
-![Screenshot 2]([gs://chat-api-aa04a.appspot.com/stayAwayPhotos/stay3.PNG](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay3.PNG?alt=media&token=4e6fc758-a9be-4313-b508-ba04c8b45ec5))
+![Screenshot 1](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay.PNG?alt=media&token=852faee6-27bc-4abf-a40d-ad8cd159e2f5)
+![Screenshot 2](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay3.PNG?alt=media&token=4e6fc758-a9be-4313-b508-ba04c8b45ec5)
 
 ### Troubleshooting
 
@@ -73,7 +75,7 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-For any inquiries or support, please contact Faruk at faruk@example.com.
+For any inquiries or support, please contact me at afnamal@hotmail.com.
 
 ---
 
