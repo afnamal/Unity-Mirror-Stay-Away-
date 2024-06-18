@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="directionalButtons" style="flex-grow: 1; position: absolute; left: 5%; width: 5%; height: 10%; top: 20%;">
+        <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="fireButton" style="background-image: url(&quot;project://database/Assets/sprite/emergency-button.png?fileID=2800000&amp;guid=d56bc1d052be9254c91bb9a28994b39d&amp;type=3#emergency-button&quot;); position: absolute; left: auto; right: auto; width: 100%; top: auto; height: 100%;" />
+    </ui:VisualElement>
+</ui:UXML>

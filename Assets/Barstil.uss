@@ -1,0 +1,21 @@
+.health-container {
+    height: 20px;
+    width: 200px;
+    position: relative;
+}
+
+.health-bar {
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.green {
+    background-color: green;
+    width: 100%; /* Tam sağlık */
+}
+
+.red {
+    background-color: red;
+    width: 0%; /* Başlangıçta görünmez */
+}

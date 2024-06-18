@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/deneme.uss?fileID=7433441132597879392&amp;guid=bd38e81ac748ebe47920830bddcce449&amp;type=3#deneme" />
+</ui:UXML>

@@ -1,0 +1,9 @@
+/* Slider'ın dolu kısmının (sol taraf) rengini ayarlar */
+.sliderInt .unity-slider__track::before {
+    background-color: green; /* Dolu kısım için renk */
+}
+
+/* Slider'ın boş kısmının (sağ taraf) rengini ayarlar */
+.sliderInt .unity-slider__track::after {
+    background-color: red; /* Boş kısım için renk */
+}
