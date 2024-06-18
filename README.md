@@ -1,5 +1,3 @@
-Fotoğrafların görünmemesi, URL'lerin doğru formatta olmamasından kaynaklanabilir. Doğru URL formatını kullanarak ve markdown sentezine uygun hale getirerek yeniden düzenleyelim.
-
 ## Stay Away - README
 
 ![Stay Away](https://firebasestorage.googleapis.com/v0/b/chat-api-aa04a.appspot.com/o/stayAwayPhotos%2Fstay.PNG?alt=media&token=852faee6-27bc-4abf-a40d-ad8cd159e2f5)
