@@ -14,13 +14,18 @@
 2. **Gameplay:**
    - The game involves two tanks trying to shoot each other until one wins.
    - Both tanks have 100 health points.
-   - Each hit reduces the health by 20 points.
-   - Five hits result in a loss.
+   - Each hit reduces the health by 10 points.
+   - Ten hits result in a loss.
    - The game includes 4 levels, with the difficulty increasing as the height of the central pillar increases.
 
 3. **Controls:**
-   - Use the on-screen buttons created with the UI Toolkit to control your tank.
-   - Movement and shooting controls are displayed on the screen for easy access.
+   - **Android:**
+     - Tap on the left half of the screen to move left.
+     - Tap on the right half of the screen to move right.
+     - Use the fire button to shoot.
+   - **Windows:**
+     - Use the arrow keys to move your tank.
+     - Press `Ctrl` to shoot.
 
 ### Installation and Setup
 
